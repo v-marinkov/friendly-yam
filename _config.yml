@@ -11,7 +11,7 @@ header:
   has_nav: true
   has_social: true
 footer:
-  content: "&copy; All rights reserved."
+  content: "&copy; All rights reserved. Test"
   links: []
 sass:
   indentWidth: 4
